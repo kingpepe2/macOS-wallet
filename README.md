@@ -44,7 +44,7 @@ listen=1
 server=1
 txindex=1
 daemon=1
-addnode=http://85.237.211.140:24027
+addnode=http://pepe3.org:24027
 
 Save and exit with Ctrl + X, then Y, and Enter
 
